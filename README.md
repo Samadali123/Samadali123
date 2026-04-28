@@ -8,13 +8,13 @@ Currently deepening my understanding of AI integration , system design, and clou
 ## What I Work With
 
 **Frontend**
-React · Angular · Vite · TailwindCSS · Redux · Context API · GSAP · Socket.io (client)
+React - Next · Angular · Vite · TailwindCSS · Redux · Context API · GSAP · Socket.io (client)
 
 **Backend**
-Node.js · Express.js · MongoDB · Mongoose · REST APIs · Socket.io · Passport.js · JWT
+Node.js · Express.js · MongoDB · Mongoose · SQL - REST APIs · Socket.io · Passport.js · JWT
 
 **Auth & Uploads**
-JWT · Cookie-based Auth · Google OAuth · Cloudinary · Multer
+JWT · Cookie-based Auth · Google OAuth · Tokem Auth - Cloudinary · Multer
 
 **Payments & Email**
 Razorpay · Nodemailer
