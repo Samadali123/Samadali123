@@ -1,6 +1,6 @@
 # Hey, I'm Syed Samad Ali 👋
 
-Full Stack Engineer focused on building production-ready web applications — from REST APIs and real-time systems to React frontends and server-rendered apps. I care about how systems are structured, not just that they work.
+Full Stack Engineer focused on building production-ready applications — from REST APIs and real-time systems to React frontends and server-rendered apps. I care about how systems are structured, not just that they work.
 
 Currently deepening my understanding of AI integration , system design, and cloud infrastructure — with the goal of building smarter, more scalable products.
 
